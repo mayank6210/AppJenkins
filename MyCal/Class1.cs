@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyCal
+namespace MyCalc
 {
     public class Calc
     {

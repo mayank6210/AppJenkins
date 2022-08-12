@@ -1,6 +1,5 @@
 ﻿using System;
-using Mycal;
-namespace HelloApp
+using MyCalc;
 
 namespace HelloApp
 {
