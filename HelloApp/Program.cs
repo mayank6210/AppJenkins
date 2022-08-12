@@ -12,6 +12,9 @@ namespace HelloApp
             Calc calc = new Calc();
             Console.WriteLine($"Sum={calc.Add(70,80)}");
             Console.WriteLine($"Multiply={calc.Multiply(4,5)}");
+            Console.WriteLine($"Sub={calc.Sub(70, 80)}");
+
+
         }
     }
 }
